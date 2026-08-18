@@ -10,6 +10,9 @@ potential performance issues in your page’s `<head>` tags.
 
 [Link to presentation deck](https://speakerdeck.com/csswizardry/get-your-head-straight)
 
+Your optimal goal:
+![](./ct-css-optimal-head-order.jpg)
+
 ## Example Output
 
 ![](./demo.png)
